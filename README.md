@@ -12,7 +12,7 @@ Alternatively, on OSX you can download and install [ImageAlpha](http://pngmini.c
 
 Once you have `pngquant` installed install the `pngoptim` script via [npm](https://npmjs.org/):
 
-    $ npm install -g path/to/git
+    $ npm install -g git://github.com/typeoneerror-studios/node-pngoptim.git
 
 ### Windows
 

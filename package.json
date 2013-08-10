@@ -10,5 +10,9 @@
   },
   "bin": {
     "pngoptim": "./bin/pngoptim-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:typeoneerror-studios/node-pngoptim.git"
   }
 }
