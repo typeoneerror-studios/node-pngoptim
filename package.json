@@ -1,0 +1,14 @@
+{
+  "name": "pngoptim",
+  "version": "0.1.0",
+  "description": "A utility for running pngquant.",
+  "author": "Sean Monahan <sean.monahan@typeoneerror.com>",
+  "license": "MIT",
+  "main": "pngoptim.js",
+  "dependencies": {
+    "optimist": "~0.3.5"
+  },
+  "bin": {
+    "pngoptim": "./bin/pngoptim-cli"
+  }
+}
