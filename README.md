@@ -16,7 +16,11 @@ Once you have `pngquant` installed install the `pngoptim` script via [npm](https
 
 ### Windows
 
-To come?
+Add [pngquant](http://pngquant.org/) to your path.
+
+Once `pngquant` is installed in your path use [npm](https://npmjs.org/) to install `pngoptim`:
+
+    $ npm install -g git://github.com/typeoneerror-studios/node-pngoptim.git
 
 ### Linux
 
